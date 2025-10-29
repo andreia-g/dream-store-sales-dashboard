@@ -128,11 +128,20 @@ These columns were used to:
 ---
 
 ## 📂 Repository Structure
-- `README.md` → Project documentation (this file)  
-- `PowerBI/` → PBIX file with dashboard + screenshots folder  
-- `Data/` → Raw files 
-- `Reports/` → Final report with the findings
+```
+Dream_Store_Sales_Dashboard
 
+│ ├── README.md
+└── assets/
+├── data/
+│ ├── raw/
+├── powerbi/
+│ ├── Sales_Dashboard.pbix
+│ └── screenshots/
+├── reports/
+│ └── Dream_Store_Insights.pdf
+
+```
 ---
 
 ## 🏆 Conclusion
