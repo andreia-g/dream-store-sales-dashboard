@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/screenshots/04_dashboard_overview_visual.png)
+
 # Dream Store Sales Dashboard
 
 ## 📊 Project Overview
